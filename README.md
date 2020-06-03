@@ -13,5 +13,5 @@ steps used:
 4.Adding additional size and format chnages in activity_main.xml
 5.Placing Expression builder compile ‘net.objecthunter:exp4j:0.4.8’ inside build gradle
 6.Writing code in kotlin using three concepts 1.Functions 2.Overriding of functions 3.Calling Buttons using SetonclickListener
-7.run app using emulator or mobile
+7.run app using emulator or mobile,
 Screenshots are uploaded in repo
